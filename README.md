@@ -1,4 +1,6 @@
 # Programming-NS-API
+_Dit project is onderdeel van de cursus Programming, leerjaar 1 periode A._
+
 Deze handleiding gaat er vanuit dat de gebruiker een computer met Windows 10 gebruikt en Python 3.7 (voormalige versie) heeft geïnstalleerd naar PATH.
 De Python 3.7 installatie is te vinden op www.python.org.
 Tijdens de installatie moet de optie 'Install to PATH' worden aangeklikt.
